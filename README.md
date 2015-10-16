@@ -31,6 +31,7 @@ composer require verem/persitencemanager
   and replaces it with the plural form of the word.
 
   ``````php
+  Example
     UserRole maps to table user_roles
   ``````
 
